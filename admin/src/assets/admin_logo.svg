@@ -1,0 +1,23 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" width="217" height="46" viewBox="0 0 217 46" fill="none">
+  <!-- Background -->
+  <rect width="217" height="46" fill="rgb(255,255,255)"/>
+  <!-- Calendar Icon (scaled up slightly) -->
+  <g>
+    <rect x="15" y="2" width="40" height="40" rx="6" fill="#FFFFFF" stroke="#000B6D" stroke-width="2"/>
+    <line x1="15" y1="10" x2="55" y2="10" stroke="#000B6D" stroke-width="2"/>
+    <rect x="20" y="13" width="6" height="6" fill="#000B6D"/>
+    <rect x="30" y="13" width="6" height="6" fill="#000B6D"/>
+    <rect x="40" y="13" width="6" height="6" fill="#000B6D"/>
+    <rect x="20" y="23" width="6" height="6" fill="#000B6D"/>
+    <rect x="30" y="23" width="6" height="6" fill="#000B6D"/>
+    <rect x="40" y="23" width="6" height="6" fill="#000B6D"/>
+    <rect x="30" y="33" width="6" height="6" fill="#5F6FFF"/>
+  </g>
+  <!-- Plus Icon (scaled up slightly) -->
+  <circle cx="57" cy="12" r="10" fill="#5F6FFF" stroke="#000B6D" stroke-width="2"/>
+  <line x1="57" y1="8" x2="57" y2="16" stroke="#FFFFFF" stroke-width="2"/>
+  <line x1="53" y1="12" x2="61" y2="12" stroke="#FFFFFF" stroke-width="2"/>
+  <!-- Larger Text -->
+  <text x="70" y="30" font-family="Arial, sans-serif" font-size="20" fill="#000B6D" font-weight="bold">MedHoms</text>
+</svg>
