@@ -14,6 +14,7 @@ MedHoms is a Doctor Appointment Booking App designed for patients and healthcare
 - GitHub for version control.
 
 ## Links
-- **Live Website**: [MedHoms](https://medhoms.onrender.com)
+- **Live Website**: [MedHoms](https://medhoms-frontend.onrender.com)
+- **Live admid**: [MedHoms-admin](https://medhoms-admin.onrender.com)
 - **GitHub Repository**: [MedHoms Repository](https://github.com/AbdulrhmanLM10/MedHoms)
 
